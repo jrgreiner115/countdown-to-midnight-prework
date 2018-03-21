@@ -1,6 +1,7 @@
 #write your code here
 
-def countdown(integer)
+def countdown(number)
   counter = 0
+while integer >= 0
 
 end

@@ -3,5 +3,7 @@
 def countdown(number)
   counter = 0
 while integer >= 0
-print 
+print "#{number} SECOND(S)!"
+end
+print "HAPPY NEW YEAR!"
 end
